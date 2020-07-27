@@ -7,6 +7,6 @@ The datasets used are as follows:
   <li>My_Ratings</li>
 </ol>
 
-Movie_Id_Titles: Consists of "item_id" and "title".
-user_ratings: Consists of user ratings for differet movies. It has the following columns: user_id, item_id, rating and timestamp.
+Movie_Id_Titles: Consists of "item_id" and "title".<br>
+user_ratings: Consists of user ratings for differet movies. It has the following columns: user_id, item_id, rating and timestamp.<br>
 My_Ratings: Movie Ratings to get recommendations from.
